@@ -9,3 +9,6 @@ clone下来后，再修改one,hahah哈哈哈
 edit by IABTD
 edit by Ashiamd 
 我们两个号一起修改，和谐相处
+
+第三者 fork到自己github，并且clone到本地
+
